@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohabdo21
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Linux Commands
+- 🌱 I'm now a ALX Student, this is my first repository as a full-stack engineer
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me mail:mohannadabdo21@gmail.com
 <!---
