@@ -14,9 +14,9 @@ How to reach me
 ---------------
 
 -   You can email me at mohannadabdo21@gmail.com for any inquiries or feedback.
--   You can also connect with me on\
-  - LinkedIn: https://www.linkedin.com/in/mohannad-abdul-aziz-babeker-6bb984111/ \
-  -X: https://twitter.com/mohanad_abdo21
+-   You can also connect with me on:
+  - LinkedIn: https://www.linkedin.com/in/mohannad-abdul-aziz-babeker-6bb984111/
+  - X: https://twitter.com/mohanad_abdo21
 
 My projects
 -----------
