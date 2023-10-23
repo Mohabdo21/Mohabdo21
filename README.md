@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile!
 
-I'm Mohannad Abdulaziz, a passionate and aspiring software engineer from Sudan.
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="100"/>
 </div>
@@ -16,11 +16,13 @@ I'm Mohannad Abdulaziz, a passionate and aspiring software engineer from Sudan.
   <img src="https://komarev.com/ghpvc/?username=Mhabdo21&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1 align="center">
+<h1 align="left">
   Alx SE Student | C18
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+</div>
 
+I'm Mohannad Abdulaziz, a passionate and aspiring software engineer from Sudan.
 ### About me
 
 I'm currently enrolled in the ALX Software Engineering program - Cohort 18, where I'm learning the fundamentals of full-stack development using Python, C, HTML, CSS, JavaScript, and more.
