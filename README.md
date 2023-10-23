@@ -14,7 +14,7 @@ I'm Mohannad Abdulaziz, a passionate and aspiring software engineer from Sudan.
   </a>
  <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=Mhabdo21&style=flat-square&color=blue" alt=""/>
-</div align="center">
+</div>
 
 <h1 align="center">
   Alx SE Student | C18
