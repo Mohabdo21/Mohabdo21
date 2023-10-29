@@ -14,6 +14,9 @@
   </a>
  <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=Mhabdo21&style=flat-square&color=blue" alt=""/>
+     </a>
+  <img src="https://www.codewars.com/users/Mohabdo21/badges/small" alt="Codewars Badge"/>
+   </a>
 </div>
 
 <h1 align="left">
