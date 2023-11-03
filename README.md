@@ -40,7 +40,7 @@ You can email me at mohannadabdo21@gmail.com for any inquiries or feedback.
 
 ### My projects
 
-Here are some of the projects that I have worked on or currently working on:
+Here are some of the projects that I have worked on:
 
 * Simple Shell: A command-line interpreter that can execute commands from the standard input or a file, handle built-in commands, manage the environment variables, and handle signals.
 * printf: A custom implementation of the printf function that can format and print data to the standard output.
