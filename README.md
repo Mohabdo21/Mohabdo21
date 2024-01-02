@@ -43,7 +43,7 @@ For any inquiries or feedback, you're welcome to reach me at mohannadabdo21@gmai
 
 Here's a glimpse into some of the C projects I've been tinkering with:
 
-- **Simple Shell**: A command-line interpreter that executes commands from the standard input or a file, handles built-in commands, manages environment variables, and gracefully handles signals.
-- **printf**: A custom implementation of the printf function, capable of formatting and printing data to the standard output.
+- [**Simple Shell**](https://github.com/Sarokhalid/simple_shell): A command-line interpreter that executes commands from the standard input or a file, handles built-in commands, manages environment variables, and gracefully handles signals.
+- [**printf**](https://github.com/Mohabdo21/printf): A custom implementation of the printf function, capable of formatting and printing data to the standard output.
 
 Feel free to explore my GitHub profile and delve into my projects. If they pique your interest, don't hesitate to leave a star or a comment. Keep coding, and thank you for your visit! 😊
