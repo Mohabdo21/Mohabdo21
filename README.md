@@ -29,11 +29,11 @@
 
 ### 👨‍💻 About Me
 
-I'm **Mohannad Abdulaziz**, a passionate **Software Engineer** from in Sudan and a proud graduate of the **ALX Software Engineering Program (C18)**. My expertise lies in **Back-End Development**, and I’m driven by a deep curiosity to create impactful, scalable software solutions.
+I'm **Mohannad Abdulaziz**, a passionate **Software Engineer** from Sudan and a proud graduate of the **ALX Software Engineering Program (C18)**. My expertise lies in **Back-End Development**, and I’m driven by a deep curiosity to create impactful, scalable software solutions.
 
 - 🌱 Currently exploring **Machine Learning** and **Distributed Systems**.
 - 💡 Enthusiastic about **open-source** contributions and building innovative projects.
-- 🚀 Skilled in **Python, JavaScript, C, Node.js, REST APIs, GraphQL, Docker, and more**.
+- 🚀 Skilled in **Python**, **JavaScript**, **C**, **Node.js**, **REST APIs**, **GraphQL**, **Docker**, and more.
 
 ---
 
@@ -41,22 +41,22 @@ I'm **Mohannad Abdulaziz**, a passionate **Software Engineer** from in Sudan and
 
 #### 🛠️ Languages & Tools
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### 🔭 Currently:
 
@@ -68,7 +68,7 @@ I'm **Mohannad Abdulaziz**, a passionate **Software Engineer** from in Sudan and
 
 ### 🌐 Connect with Me
 
-- **Email:** mohannadabdo21@gmail.com
+- **Email:** [mohannadabdo21@gmail.com](mailto:mohannadabdo21@gmail.com)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mohannad-abdul-aziz-babeker/)
 - **Twitter:** [Follow me](https://twitter.com/mohanad_abdo21)
 
