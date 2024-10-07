@@ -40,6 +40,7 @@ I'm **Mohannad Abdulaziz**, a passionate **Software Engineer** from in Sudan and
 ### 💼 What I Do
 
 #### 🛠️ Languages & Tools
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -57,8 +58,8 @@ I'm **Mohannad Abdulaziz**, a passionate **Software Engineer** from in Sudan and
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-
 #### 🔭 Currently:
+
 - Building **full-stack applications** with a focus on **backend engineering**.
 - Contributing to **open-source projects**.
 - Exploring **DevOps** and **AI** innovations.
@@ -66,6 +67,7 @@ I'm **Mohannad Abdulaziz**, a passionate **Software Engineer** from in Sudan and
 ---
 
 ### 🌐 Connect with Me
+
 - **Email:** mohannadabdo21@gmail.com
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mohannad-abdul-aziz-babeker/)
 - **Twitter:** [Follow me](https://twitter.com/mohanad_abdo21)
@@ -89,13 +91,13 @@ Here are some of the exciting projects I’ve worked on:
 
   <h4>GitHub Stats</h4>
   <img src="https://github-readme-stats.vercel.app/api?username=Mohabdo21&show_icons=true&theme=radical" alt="GitHub Stats" />
-  
+
   <h4>GitHub Streak</h4>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohabdo21&theme=radical" alt="GitHub Streak" />
 
   <h4>Top Languages</h4>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohabdo21&layout=compact&theme=radical" alt="Top Languages" />
-  
+
   <h4>Trophies</h4>
   <img src="https://github-profile-trophy.vercel.app/?username=Mohabdo21&theme=radical" alt="Trophies" />
 
