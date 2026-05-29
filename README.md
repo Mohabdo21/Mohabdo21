@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I’m a software engineer with a strong focus on back-end development, distributed systems, and clean architecture.  
 I thrive on turning complex requirements into reliable, maintainable services - from real-time collaboration tools to IoT telemetry pipelines.  
@@ -27,7 +27,7 @@ Graduate of the **ALX Software Engineering Program (C18)**, I bring hands-on exp
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
@@ -88,15 +88,15 @@ Graduate of the **ALX Software Engineering Program (C18)**, I bring hands-on exp
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-- **[Collabor8](https://github.com/reunicorn1/collabor8)** – Real-time collaborative code editor.  
+- **[Collabor8](https://github.com/reunicorn1/collabor8)** - Real-time collaborative code editor.  
   *Stack: Node.js, WebSockets, React, Docker*
-- **[JobLinker](https://github.com/Abdallah-Abdelrahman/Job-linker)** – AI-powered recruitment automation platform.  
+- **[JobLinker](https://github.com/Abdallah-Abdelrahman/Job-linker)** - AI-powered recruitment automation platform.  
   *Stack: Python, FastAPI, PostgreSQL, React*
-- **[Simple Shell](https://github.com/Sarokhalid/simple_shell)** – Custom Unix shell written in C.  
+- **[Simple Shell](https://github.com/Sarokhalid/simple_shell)** - Custom Unix shell written in C.  
   *Concepts: Process management, system calls, command parsing*
-- **[Printf](https://github.com/Mohabdo21/printf)** – Custom implementation of the C `printf` function.  
+- **[Printf](https://github.com/Mohabdo21/printf)** - Custom implementation of the C `printf` function.  
   *Focus: Variadic functions, formatted output*
 
 ---
@@ -117,6 +117,6 @@ The best ways to reach me:
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohannad-abdul-aziz-babeker/)
 - 🐦 [Twitter/X](https://twitter.com/mohanad_abdo21) (I share tech thoughts occasionally)
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+> “First, solve the problem. Then, write the code.” - John Johnson
 
 Thanks for stopping by! 👋
