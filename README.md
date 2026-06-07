@@ -102,8 +102,11 @@ Graduate of the **ALX Software Engineering Program (C18)**, I bring hands-on exp
 ---
 
 <div align="center">
-  <h4>GitHub Streak</h4>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohabdo21&theme=radical" alt="GitHub Streak" />
+  <h3>GitHub Stats</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohabdo21&theme=radical" alt="Streak" width="49%" height="195" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mohabdo21&layout=compact&theme=dark" alt="Top Langs" width="49%" height="195" />
+  </div>
 </div>
 
 ---
