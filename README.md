@@ -68,6 +68,7 @@ Graduate of the **ALX Software Engineering Program (C18)**, I bring hands-on exp
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/-Compose-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat&logo=helm&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/-Vagrant-1563FF?style=flat&logo=vagrant&logoColor=white)
 ![QEMU](https://img.shields.io/badge/-QEMU-FF6600?style=flat&logo=qemu&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
@@ -87,6 +88,8 @@ Graduate of the **ALX Software Engineering Program (C18)**, I bring hands-on exp
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Kitty](https://img.shields.io/badge/-Kitty-000000?style=flat&logo=kitty&logoColor=white)
 ![Tmux](https://img.shields.io/badge/-Tmux-1BB91F?style=flat&logo=tmux&logoColor=white)
+![Zsh](https://img.shields.io/badge/-Zsh-000000?style=flat&logo=zsh&logoColor=white)
+![Make](https://img.shields.io/badge/-Make-000000?style=flat&logo=gnu&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
@@ -95,6 +98,7 @@ Graduate of the **ALX Software Engineering Program (C18)**, I bring hands-on exp
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)
+
 ---
 
 ## Featured Projects
