@@ -79,6 +79,8 @@ Graduate of the **ALX Software Engineering Program (C18)**, I bring hands-on exp
 ![Bun](https://img.shields.io/badge/-Bun-000000?style=flat&logo=bun&logoColor=white)
 
 ### Tooling & Workflow
+![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=flat&logo=archlinux&logoColor=white)
+![Kitty](https://img.shields.io/badge/Kitty-000000?style=flat&logo=kitty&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
@@ -101,16 +103,37 @@ Graduate of the **ALX Software Engineering Program (C18)**, I bring hands-on exp
 
 ---
 
+## GitHub Stats
+
 <div align="center">
-  <h3>GitHub Stats</h3>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <div style="display: flex; justify-content: center; align-items: center;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohabdo21&theme=radical" alt="Streak" />
-    </div>
-    <div style="display: flex; justify-content: center; align-items: center;">
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mohabdo21&layout=compact&theme=dark" alt="Top Langs" />
-    </div>
-  </div>
+
+  <h2><samp>/// REPOSITORY TELEMETRY ///</samp></h2>
+
+  <a href="https://github.com/Mohabdo21">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohabdo21&theme=dracula&hide_border=true&area=true" alt="Activity Graph" />
+  </a>
+
+  <h2><samp>/// OVERVIEW & ENGAGEMENT ///</samp></h2>
+
+  <a href="https://github.com/Mohabdo21">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohabdo21&theme=dracula" alt="Profile Details" />
+  </a>
+  <a href="https://github.com/Mohabdo21">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohabdo21&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  </a>
+
+  <h2><samp>/// LINGUISTIC PROFILE ///</samp></h2>
+
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohabdo21&theme=dracula" alt="Repos per Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohabdo21&theme=dracula" alt="Most Commit Language" />
+
+  <h2><samp>/// COMMIT DYNAMICS ///</samp></h2>
+
+  <a href="https://github.com/Mohabdo21">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohabdo21&theme=dracula" alt="Stats" />
+  </a>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mohabdo21&theme=dracula&utcOffset=3" alt="Productive Time" />
+
 </div>
 
 ---
