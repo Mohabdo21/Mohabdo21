@@ -44,6 +44,8 @@ Graduate of the **ALX Software Engineering Program (C18)**, I bring hands-on exp
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=flat&logo=go&logoColor=white)
+![Axum](https://img.shields.io/badge/-Axum-000000?style=flat&logo=rust&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![gRPC](https://img.shields.io/badge/-gRPC-244C5A?style=flat&logo=grpc&logoColor=white)
 ![REST](https://img.shields.io/badge/-REST-FF5733?style=flat)
