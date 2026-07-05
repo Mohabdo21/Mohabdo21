@@ -31,139 +31,41 @@ Graduate of the **ALX Software Engineering Program (C18)**, I bring hands-on exp
 
 ### Languages
 
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-
----
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Backend & APIs
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=flat&logo=go&logoColor=white)
-![Axum](https://img.shields.io/badge/-Axum-000000?style=flat&logo=rust&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![gRPC](https://img.shields.io/badge/-gRPC-244C5A?style=flat&logo=grpc&logoColor=white)
-![REST](https://img.shields.io/badge/-REST-FF5733?style=flat)
-![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
-![Jinja2](https://img.shields.io/badge/-Jinja2-B41717?style=flat&logo=jinja&logoColor=white)
-![Handlebars](https://img.shields.io/badge/-Handlebars-000000?style=flat&logo=handlebarsdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 
----
+### DevOps & Cloud
 
-### Messaging & Real-Time
-
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat&logo=eclipsemosquitto&logoColor=white)
-![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat)
-![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
-![SSE](https://img.shields.io/badge/-Server--Sent_Events-FF6B6B?style=flat)
-![Yjs](https://img.shields.io/badge/-Yjs-4A90E2?style=flat)
-![Hocuspocus](https://img.shields.io/badge/-Hocuspocus-FF6B6B?style=flat)
-
----
-
-### Databases & Storage
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![TimescaleDB](https://img.shields.io/badge/-TimescaleDB-FDB515?style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/-ChromaDB-4285F4?style=flat)
-![pgvector](https://img.shields.io/badge/-pgvector-4169E1?style=flat)
-![MinIO](https://img.shields.io/badge/-MinIO-73879C?style=flat&logo=minio&logoColor=white)
-
----
-
-### DevOps & Infrastructure
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/-Compose-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat&logo=helm&logoColor=white)
-![Podman](https://img.shields.io/badge/-Podman-893462?style=flat&logo=podman&logoColor=white)
-![LXC/LXD](https://img.shields.io/badge/-LXC/LXD-000000?style=flat)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-![Vagrant](https://img.shields.io/badge/-Vagrant-1563FF?style=flat&logo=vagrant&logoColor=white)
-![QEMU](https://img.shields.io/badge/-QEMU-FF6600?style=flat&logo=qemu&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![systemd](https://img.shields.io/badge/-systemd-666666?style=flat)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![PM2](https://img.shields.io/badge/-PM2-2B037A?style=flat&logo=pm2&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/-Gunicorn-499848?style=flat&logo=gunicorn&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-
----
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### Frontend
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Bun](https://img.shields.io/badge/-Bun-000000?style=flat&logo=bun&logoColor=white)
-![Redux (RTK)](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
-![HTMX](https://img.shields.io/badge/-HTMX-333333?style=flat)
-![Jinja2](https://img.shields.io/badge/-Jinja2-B41717?style=flat&logo=jinja&logoColor=white)
-![CodeMirror](https://img.shields.io/badge/-CodeMirror-555555?style=flat)
-![Agora RTC](https://img.shields.io/badge/-Agora-00BFFF?style=flat)
-
----
-
-### AI/ML & Tools
-
-![Google Gemini](https://img.shields.io/badge/-Google_Gemini-4285F4?style=flat)
-![FuzzyWuzzy](https://img.shields.io/badge/-FuzzyWuzzy-FF6600?style=flat)
-![Cython](https://img.shields.io/badge/-Cython-3776AB?style=flat&logo=python&logoColor=white)
-
----
-
-### Tooling & Workflow
-
-![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=flat&logo=archlinux&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat&logo=fedora&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Kitty](https://img.shields.io/badge/-Kitty-000000?style=flat&logo=kitty&logoColor=white)
-![Tmux](https://img.shields.io/badge/-Tmux-1BB91F?style=flat&logo=tmux&logoColor=white)
-![Zsh](https://img.shields.io/badge/-Zsh-000000?style=flat&logo=zsh&logoColor=white)
-![Make](https://img.shields.io/badge/-Make-000000?style=flat&logo=gnu&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim&logoColor=white)
-![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)
-
----
-
-### Practices
-
-![Microservices](https://img.shields.io/badge/-Microservices-4285F4?style=flat)
-![Event-Driven Architecture](https://img.shields.io/badge/-Event_Driven-666666?style=flat)
-![ERD Modeling](https://img.shields.io/badge/-ERD_Modeling-FF6B6B?style=flat)
-![Agile](https://img.shields.io/badge/-Agile-0078D4?style=flat)
-![Unit Testing](https://img.shields.io/badge/-Unit_Testing-326CE5?style=flat)
-![System Design](https://img.shields.io/badge/-System_Design-666666?style=flat)
-
----
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![HTMX](https://img.shields.io/badge/HTMX-333333?style=for-the-badge)
 
 ## Featured Projects
 
