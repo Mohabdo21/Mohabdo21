@@ -18,6 +18,7 @@
 
 I’m a software engineer with a strong focus on back-end development, distributed systems, and clean architecture.
 I thrive on turning complex requirements into reliable, maintainable services - from real-time collaboration tools to IoT telemetry pipelines.
+Currently building products at **[DIAMINATE](https://github.com/DIAMINATE)** and IoT infrastructure at **[IoT-Shabaka](https://github.com/IoT-Shabaka)**.
 Graduate of the **ALX Software Engineering Program (C18)**, I bring hands-on experience in building full-stack applications, designing APIs, and working with cloud-native tooling.
 
 - 🎯 **Specializing in:** Back-End Engineering, API Design, Microservices
