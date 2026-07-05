@@ -2,7 +2,7 @@
   <h1>Mohannad Abdulaziz</h1>
   <h3>Software Engineer · Back-End Developer · Open Source Contributor</h3>
   <p>
-    Building scalable back-end systems, real-time platforms, and distributed applications.  
+    Building scalable back-end systems, real-time platforms, and distributed applications.
     Based in the UAE 🇦🇪 .
   </p>
   <p>
@@ -16,8 +16,8 @@
 
 ## About Me
 
-I’m a software engineer with a strong focus on back-end development, distributed systems, and clean architecture.  
-I thrive on turning complex requirements into reliable, maintainable services - from real-time collaboration tools to IoT telemetry pipelines.  
+I’m a software engineer with a strong focus on back-end development, distributed systems, and clean architecture.
+I thrive on turning complex requirements into reliable, maintainable services - from real-time collaboration tools to IoT telemetry pipelines.
 Graduate of the **ALX Software Engineering Program (C18)**, I bring hands-on experience in building full-stack applications, designing APIs, and working with cloud-native tooling.
 
 - 🎯 **Specializing in:** Back-End Engineering, API Design, Microservices
@@ -30,6 +30,7 @@ Graduate of the **ALX Software Engineering Program (C18)**, I bring hands-on exp
 ## Tech Stack
 
 ### Languages
+
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -42,6 +43,7 @@ Graduate of the **ALX Software Engineering Program (C18)**, I bring hands-on exp
 ---
 
 ### Backend & APIs
+
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
@@ -57,7 +59,9 @@ Graduate of the **ALX Software Engineering Program (C18)**, I bring hands-on exp
 ![Handlebars](https://img.shields.io/badge/-Handlebars-000000?style=flat&logo=handlebarsdotjs&logoColor=white)
 
 ---
+
 ### Messaging & Real-Time
+
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat&logo=eclipsemosquitto&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?style=flat)
@@ -67,7 +71,9 @@ Graduate of the **ALX Software Engineering Program (C18)**, I bring hands-on exp
 ![Hocuspocus](https://img.shields.io/badge/-Hocuspocus-FF6B6B?style=flat)
 
 ---
+
 ### Databases & Storage
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![TimescaleDB](https://img.shields.io/badge/-TimescaleDB-FDB515?style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -80,7 +86,9 @@ Graduate of the **ALX Software Engineering Program (C18)**, I bring hands-on exp
 ![MinIO](https://img.shields.io/badge/-MinIO-73879C?style=flat&logo=minio&logoColor=white)
 
 ---
+
 ### DevOps & Infrastructure
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/-Compose-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
@@ -103,7 +111,9 @@ Graduate of the **ALX Software Engineering Program (C18)**, I bring hands-on exp
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ---
+
 ### Frontend
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
@@ -115,13 +125,17 @@ Graduate of the **ALX Software Engineering Program (C18)**, I bring hands-on exp
 ![Agora RTC](https://img.shields.io/badge/-Agora-00BFFF?style=flat)
 
 ---
+
 ### AI/ML & Tools
+
 ![Google Gemini](https://img.shields.io/badge/-Google_Gemini-4285F4?style=flat)
 ![FuzzyWuzzy](https://img.shields.io/badge/-FuzzyWuzzy-FF6600?style=flat)
 ![Cython](https://img.shields.io/badge/-Cython-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
+
 ### Tooling & Workflow
+
 ![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=flat&logo=archlinux&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat&logo=fedora&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
@@ -139,7 +153,9 @@ Graduate of the **ALX Software Engineering Program (C18)**, I bring hands-on exp
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)
 
 ---
+
 ### Practices
+
 ![Microservices](https://img.shields.io/badge/-Microservices-4285F4?style=flat)
 ![Event-Driven Architecture](https://img.shields.io/badge/-Event_Driven-666666?style=flat)
 ![ERD Modeling](https://img.shields.io/badge/-ERD_Modeling-FF6B6B?style=flat)
@@ -151,14 +167,20 @@ Graduate of the **ALX Software Engineering Program (C18)**, I bring hands-on exp
 
 ## Featured Projects
 
-- **[Collabor8](https://github.com/reunicorn1/collabor8)** - Real-time collaborative code editor.  
-  *Stack: Node.js, WebSockets, React, Docker*
-- **[JobLinker](https://github.com/Abdallah-Abdelrahman/Job-linker)** - AI-powered recruitment automation platform.  
-  *Stack: Python, FastAPI, PostgreSQL, React*
-- **[Simple Shell](https://github.com/Sarokhalid/simple_shell)** - Custom Unix shell written in C.  
-  *Concepts: Process management, system calls, command parsing*
-- **[Printf](https://github.com/Mohabdo21/printf)** - Custom implementation of the C `printf` function.  
-  *Focus: Variadic functions, formatted output*
+- **[Windows-Repair-Tool](https://github.com/Mohabdo21/Windows-Repair-Tool)** - Interactive Windows system repair and maintenance tool with automated diagnostics, file system checks, and Windows Update troubleshooting.
+  _Stack: Batch, CLI · ⭐ 39 · 🍴 9_
+- **[mini-player](https://github.com/Mohabdo21/mini-player)** - Minimalist desktop music player built with Python and PyQt6.
+  _Stack: Python, PyQt6 · ⭐ 2_
+- **[cpumon](https://github.com/Mohabdo21/cpumon)** - Real-time CPU temperature, frequency, and fan monitoring CLI for Linux.
+  _Stack: Go, hwmon, lm-sensors_
+- **[linux-mcp](https://github.com/Mohabdo21/linux-mcp)** - MCP server exposing Linux system status for AI agents (read-only).
+  _Stack: Go, MCP Protocol_
+- **[domain-insight](https://github.com/Mohabdo21/domain-insight)** - Domain intelligence CLI: WHOIS, DNS records, IP info, and SSL certificate lookup.
+  _Stack: Python · ⭐ 1_
+- **[arch-rss-notify](https://github.com/Mohabdo21/arch-rss-notify)** - Arch Linux package RSS feed notifier that polls feeds and sends desktop notifications.
+  _Stack: Go, notify-send_
+- **[HybridRec-ContextEnrichment](https://github.com/Mohabdo21/HybridRec-ContextEnrichment)** - Hybrid recommendation engine combining collaborative and content-based filtering with temporal awareness.
+  _Stack: Python, scikit-learn, TF-IDF, ALS_
 
 ---
 
@@ -199,7 +221,7 @@ Graduate of the **ALX Software Engineering Program (C18)**, I bring hands-on exp
 
 ## 🤝 Let's Connect
 
-I’m open to new opportunities, collaborations, and just talking tech.  
+I’m open to new opportunities, collaborations, and just talking tech.
 The best ways to reach me:
 
 - 📧 [mohannadabdo21@hotmail.com](mailto:mohannadabdo21@hotmail.com)
