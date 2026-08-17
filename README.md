@@ -71,7 +71,7 @@ Graduate of the **ALX Software Engineering Program (C18)**, I bring hands-on exp
 ## Featured Projects
 
 - **[Windows-Repair-Tool](https://github.com/Mohabdo21/Windows-Repair-Tool)** - Interactive Windows system repair and maintenance tool with automated diagnostics, file system checks, and Windows Update troubleshooting.
-  _Stack: Batch, CLI · ⭐ 40 · 🍴 9_
+  _Stack: Batch, CLI · ⭐ 43 · 🍴 8_
 - **[mini-player](https://github.com/Mohabdo21/mini-player)** - Minimalist desktop music player built with Python and PyQt6.
   _Stack: Python, PyQt6 · ⭐ 2_
 - **[cpumon](https://github.com/Mohabdo21/cpumon)** - Real-time CPU temperature, frequency, and fan monitoring CLI for Linux.
