@@ -11,7 +11,7 @@ and IoT infrastructure at [IoT-Shabaka](https://github.com/IoT-Shabaka).
 **Selected work:**
 
 - [Windows-Repair-Tool](https://github.com/Mohabdo21/Windows-Repair-Tool) - Windows repair and maintenance CLI with automated diagnostics. ![GitHub stars](https://img.shields.io/github/stars/Mohabdo21/Windows-Repair-Tool) ![GitHub forks](https://img.shields.io/github/forks/Mohabdo21/Windows-Repair-Tool)
-- [linux-mcp](https://github.com/Mohabdo21/linux-mcp) - MCP server exposing Linux system status to AI agents (read-only).
+- [linux-mcp](https://github.com/Mohabdo21/linux-mcp) - MCP server exposing Linux system status to AI agents (read-only). ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/Mohabdo21/linux-mcp/total)
 - [cpumon](https://github.com/Mohabdo21/cpumon) - Real-time CPU temperature, frequency, and fan monitoring CLI for Linux.
 - [domain-insight](https://github.com/Mohabdo21/domain-insight) - Domain intelligence CLI: WHOIS, DNS records, IP info, and SSL lookup.
 
